@@ -1,5 +1,5 @@
-# WebRCT
-A video call app with WebRCT 
+# WebRTC
+A video call app with WebRTC 
 
 # Purpose of The Project <br/>
 Making a video call a person with *WebRTC* technology
